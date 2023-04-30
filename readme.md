@@ -7,7 +7,7 @@
 
 
 #### :pencil2: Study log
- <div align="center">
+
 
   <br/>
   
