@@ -13,6 +13,6 @@
 
   <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdalswl1013&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdalswl1013&show_icons=true&theme=buefy)
  
 </div>
