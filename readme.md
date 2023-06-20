@@ -11,14 +11,3 @@
    <a href="https://github.com/thdalswl1013/nagne_kotlin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-F6CECE?style=flat&logo=Python&logoColor=white"/></a>
 </div>
 
-
-#### :pencil2: Study log
-
-<div align="center">
-
-
-  <br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdalswl1013&show_icons=true&theme=buefy)
- 
-</div>
